@@ -1,0 +1,2 @@
+В master в README также присутствует фраза в конце строки "with nice buttons on his jacket (buttons branch)"
+Пока не дописал этот файлик было 10 коммитов :)
